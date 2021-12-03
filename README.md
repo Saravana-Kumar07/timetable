@@ -5,7 +5,7 @@ To Write a html webpage page to display your timetable.
 
 # ALGORITHM
 ### STEP 1
-create a simple table using table tag
+Create a simple table using table tag
 ### STEP 2
 Add header row using th tag
 ### STEP 3
@@ -124,3 +124,7 @@ Execute the program
 </html>
 ```
 # OUPUT
+## User side output:
+![logo](./logo/output.png)
+## Html validator:
+![logo](./logo/html.png)
