@@ -17,18 +17,16 @@ Execute the program
 ```
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <center><img src="http://saveetha.ac.in/images/WEB_LOGO-01.png" width=800 height="130" alt="LOGO"/>
-    </head>
-    <head>
-        <title>TIME TABLE</title>
-    </head>
-	
-   <body>
+<head>
+ <title>TIME TABLE</title>
+</head>
+ <body>
+   <center>
+   <img src="http://saveetha.ac.in/images/WEB_LOGO-01.png" width=800 height="130" alt="LOGO"/>
+   </center>
       <table border = "1" cellspacing="1" bordercolor="orange" bgcolor="white" align="center">
-     
-    <tr>
-            <th colspan="10">TIME TABLE</th>
+        <tr>
+            <th colspan="8">TIME TABLE</th>
          </tr>
 
          <tr>
@@ -70,7 +68,7 @@ Execute the program
              <td>19AI303/Sellakumar S</td>
          </tr>
 
-          <tr>
+         <tr>
              <td>WEDNESDAY</td>
              <td align="center">-</td>
              <td align="center">-</td>
@@ -81,7 +79,7 @@ Execute the program
              <td>19AI401/Obed Otto C</td>
          </tr>
 
-          <tr>
+         <tr>
              <td>THURSDAY</td>
              <td>19AI303/Sellakumar S</td>
              <td>19AI303/Sellakumar S</td>
@@ -91,7 +89,8 @@ Execute the program
              <td>19AI302/Sellakumar S</td>
          </tr>
 
-           <tr>
+        
+         <tr>
              <td>FRIDAY</td>
              <td>19EY701/Sneha Priya P</td>
              <td>19EY701/Sneha Priya P</td>
@@ -105,22 +104,21 @@ Execute the program
       </table>
       
       <h2 align="center">Courses:</h2>
-      <p  align="center">1.19AI401-Fundamentals of Web Technology</p>
-      <p  align="center">2.19AI402-Web Technology Laboratory</p>
-      <p  align="center">3.19MA221-Linear Algebra Laboratory</p>
-      <p  align="center">4.19MA220-Mathematics for Artificial Intelligence</p>
-      <p  align="center">5.19EY701-Soft Skills</p>
-      <p  align="center">6.19AI302-Engineering Design and Modelling</p>
-      <p  align="center">7.19AI303-Engineering Mechanics and Product  Development</p>
-      <p  align="center">8.19AI301-Python Programming</p>
-      <p  align="center">9.ECA051-AD-Mentoring-AD1</p>
+      <p align="center">1.19AI401-Fundamentals of Web Technology</p>
+      <p align="center">2.19AI402-Web Technology Laboratory</p>
+      <p align="center">3.19MA221-Linear Algebra Laboratory</p>
+      <p align="center">4.19MA220-Mathematics for Artificial Intelligence</p>
+      <p align="center">5.19EY701-Soft Skills</p>
+      <p align="center">6.19AI302-Engineering Design and Modelling</p>
+      <p align="center">7.19AI303-Engineering Mechanics and Product  Development</p>
+      <p align="center">8.19AI301-Python Programming</p>
+      <p align="center">9.ECA051-AD-Mentoring-AD1</p>
    </body>
    <style>
     body {
-      background: linear-gradient(to bottom,#a1c4fd,#ebedee
- );
-      color: #333333;
-</style>
+      background: linear-gradient(to bottom,#a1c4fd,#ebedee);
+      color: #000000;}
+   </style>
 </html>
 ```
 # OUPUT
