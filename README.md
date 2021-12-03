@@ -24,11 +24,6 @@ Execute the program
    <center>
    <img src="http://saveetha.ac.in/images/WEB_LOGO-01.png" width=800 height="130" alt="LOGO"/>
    </center>
-   <style>
-      body {
-        background: linear-gradient(to bottom,#a1c4fd,#ebedee);
-        color: #000000;}
-     </style>
       <table border = "1" cellspacing="1" bgcolor="white" align="center">
         <tr>
             <th colspan="8">TIME TABLE</th>
@@ -118,6 +113,11 @@ Execute the program
       <p align="center">7.19AI303-Engineering Mechanics and Product  Development</p>
       <p align="center">8.19AI301-Python Programming</p>
       <p align="center">9.ECA051-AD-Mentoring-AD1</p>
+   <style>
+      body {
+        background: linear-gradient(to bottom,#a1c4fd,#ebedee);
+        color: #000000;}
+   </style>
    </body>
 </html>
 ```
